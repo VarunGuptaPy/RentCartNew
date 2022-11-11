@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "383423215046",
+    "project_id": "rentcart-83fbe",
+    "storage_bucket": "rentcart-83fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383423215046:android:431791a2d6dbf279586ec7",
+        "android_client_info": {
+          "package_name": "com.varun.rent_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383423215046-g56jr8tor27cca87jddh51v0af81567c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsBL3V7r9gThB1nS5VXZ20zPMlk3TAFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383423215046-g56jr8tor27cca87jddh51v0af81567c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383423215046:android:55c162d36b79c662586ec7",
+        "android_client_info": {
+          "package_name": "com.varun.rent_cart_new.rent_cart_semfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383423215046-g56jr8tor27cca87jddh51v0af81567c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsBL3V7r9gThB1nS5VXZ20zPMlk3TAFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383423215046-g56jr8tor27cca87jddh51v0af81567c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
